@@ -1,4 +1,4 @@
-package task;
+package java_All_Programs;
 
 public class Lab002 {
     public static void main() {
