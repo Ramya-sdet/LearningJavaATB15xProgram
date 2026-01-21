@@ -19,5 +19,4 @@ public class Grade_Calculator {
 
         System.out.println("Your grade is: " + grade);
     }
-
 }

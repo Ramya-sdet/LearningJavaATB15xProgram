@@ -1,5 +1,4 @@
 package java_All_Programs;
-
 import java.util.Scanner;
 
 public class Triangle_Classifier {
